@@ -1,4 +1,4 @@
-# Hello, my name is Milena and I am a Full Stack developer 💻💞
+# Hello, my name is Milena and I am a backend developer 💻💞
 
 
 
@@ -10,9 +10,7 @@
   <img src="https://github.com/devicons/devicon/raw/master/icons/css3/css3-original.svg" title="css" alt="css" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/raw/master/icons/javascript/javascript-original.svg" title="javascript" alt="javascript" width="40" height="40"/>&nbsp
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="40" height="40" alt="TypeScript" />&nbsp
-  <img src="https://github.com/devicons/devicon/raw/master/icons/react/react-original.svg" title="reactjs" alt="reactjs" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/raw/master/icons/nodejs/nodejs-original.svg" title="nodejs" alt="nodejs" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/raw/master/icons/express/express-original.svg" title="express" alt="express" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/raw/master/icons/mongodb/mongodb-original.svg" title="mongodb" alt="mongodb" width="" height="40"/>&nbsp
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="40" height="40"  alt="PostgreSQL" /><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="40" height="40" alt="Docker" />
   <!-- <img src="https://github.com/devicons/devicon/blob/raw/master/icons/redux/redux-original.svg" title="redux" alt="redux" width="40" height="40"/>&nbsp; -->
