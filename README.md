@@ -13,7 +13,6 @@
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="42" height="42" alt="Docker" />&nbsp;
   <img src="https://github.com/devicons/devicon/raw/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/raw/master/icons/redux/redux-original.svg" title="Redux" alt="Redux" width="40" height="40"/>&nbsp;
->&nbsp;
 
 </div>
 
