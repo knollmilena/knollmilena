@@ -9,10 +9,11 @@
   <img src="https://github.com/devicons/devicon/raw/master/icons/javascript/javascript-original.svg" title="javascript" alt="javascript" width="40" height="40"/>&nbsp
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="40" height="40" alt="TypeScript" />&nbsp
   <img src="https://github.com/devicons/devicon/raw/master/icons/nestjs/nestjs-original.svg" title="NestJS" alt="NestJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/raw/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="40" height="40"  alt="PostgreSQL" />&nbsp;
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="42" height="42" alt="Docker" />&nbsp;
-  <!-- <img src="https://github.com/devicons/devicon/blob/raw/master/icons/redux/redux-original.svg" title="redux" alt="redux" width="40" height="40"/>&nbsp; -->
+  <img src="https://github.com/devicons/devicon/raw/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/raw/master/icons/redux/redux-original.svg" title="redux" alt="redux" width="40" height="40"/>&nbsp;
+
 </div>
 
 ##
